@@ -9,6 +9,9 @@ Build a robust Machine Learning model (Price Prediction Model) that can help bot
 
 
 ### 3. Success Metrics
+Primary metrics include: MAE, RMSE, R2 Score 
+
+
 ### 4. Data Sources 
 ### 5. Acquisiting Strategy
 ### 5. Preparing Data 
