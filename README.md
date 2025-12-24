@@ -20,9 +20,9 @@ Primary metrics include: MAE, RMSE, R2 Score
 ### 4. Data Sources 
 Sources of data will include;
 
- - Car Dealer Website: URL - https://www.kaiandkaro.com/vehicles?availability=available&availability=sell_on_behalf&model__make__vehicle_type=Automobile 
+ I. Car Dealer Website: URL - https://www.kaiandkaro.com/vehicles?availability=available&availability=sell_on_behalf&model__make__vehicle_type=Automobile 
 
-  - Key features that will be collected include;
+    Key features that will be collected include;
 
         1. Year of Manufactor (YOM) 
         2. Current Location
@@ -38,11 +38,12 @@ Sources of data will include;
         12. Aspiration 
         13. Acceleration (0-100 Kph) 
 
- - Other key features that will be considered in case available include; 
+    Other key features that will be considered in case available include; 
     
    `Trimming, Sound System, Power Windows, Seat Material, Air Conditioning, Steering Controls, Auto Start and Stop, Cigarette Lighter Port, Isofix Child Seat Anchors, FM Radio with BT AUX And USB, Keyless Entry Push Button Start, Running Costs, and Safety Features.`
 
- - Kaggle.
+ II. Kaggle.
+ 
 ### 5. Acquisiting Strategy
 ### 5. Preparing Data 
 ### 6. Selecting and Training the Model
