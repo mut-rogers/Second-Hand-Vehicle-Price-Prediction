@@ -40,7 +40,7 @@ Sources of data will include;
 
  - Other key features that will be considered in case available include; 
     
-   Trimming, Sound System, Power Windows, Seat Material, Air Conditioning, Steering Controls, Auto Start and Stop, Cigarette Lighter Port, Isofix Child Seat Anchors, FM Radio with BT AUX And USB, Keyless Entry Push Button Start, Running Costs, and Safety Features.
+   `Trimming, Sound System, Power Windows, Seat Material, Air Conditioning, Steering Controls, Auto Start and Stop, Cigarette Lighter Port, Isofix Child Seat Anchors, FM Radio with BT AUX And USB, Keyless Entry Push Button Start, Running Costs, and Safety Features.`
 
  - Kaggle.
 ### 5. Acquisiting Strategy
