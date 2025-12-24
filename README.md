@@ -24,19 +24,19 @@ Sources of data will include;
 
   - Key features that will be collected include;
 
-   1. Year of Manufactor (YOM) 
-   2. Current Location
-   3. Availability
-   4. Drive 
-   5. Mileage 
-   6. Engine Size 
-   7. Fuel Type 
-   8. Horse Power 
-   9. Hourse Power 
-   10. Transmission 
-   11. Torque 
-   12. Aspiration 
-   13. Acceleration (0-100 Kph) 
+        1. Year of Manufactor (YOM) 
+        2. Current Location
+        3. Availability
+        4. Drive 
+        5. Mileage 
+        6. Engine Size 
+        7. Fuel Type 
+        8. Horse Power 
+        9. Hourse Power 
+        10. Transmission 
+        11. Torque 
+        12. Aspiration 
+        13. Acceleration (0-100 Kph) 
 
  - Other key features that will be considered in case available include; 
     
