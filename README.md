@@ -49,9 +49,9 @@ Sources of data will include;
  - Key Fields: See above 
  - Extraction & Methodology: This will be completed in a two-stage process described below;
 
-    **i). Discovery**: Extracting of vehicle URLS
+    **- Discovery**: Extracting of vehicle URLS
 
-    **ii). Detailing**: Visiting each unique vehicle URL to extract key vehicle details.
+    **- Detailing**: Visiting each unique vehicle URL to extract key vehicle details.
 
  - Tools: 
 
@@ -60,8 +60,13 @@ Sources of data will include;
         - Selenium 
         - Pydantic (for data validation) 
         - SQL Alchemy 
+    
+ - Data Quality & Storage 
 
-
+   We implement a "Validation Gate" using **Pydantic V2** to ensure data integrity at the point of ingestion:
+    - **Strict Typing:** All raw scraped data is coerced into validated Python types (e.g., `Price` as `float`, `Year` as `int`).
+    - **Logical Constraints:** Custom validators ensure business logic (e.g., `mileage >= 0`, `price > 0`).
+    - **Error Handling:** Records that fail validation are logged as 'Dirty Data' and excluded from the main dataset to maintain 99.9% accuracy.
 
 ### 5. Preparing Data 
 ### 6. Selecting and Training the Model
