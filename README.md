@@ -49,8 +49,9 @@ Sources of data will include;
  - Key Fields: See above 
  - Extraction & Methodology: This will be completed in a two-stage process described below;
 
-    **Discovery**: Extracting of vehicle URLS
-    **Detailing**: Visiting each unique vehicle URL to extract key vehicle details.
+    **i). Discovery**: Extracting of vehicle URLS
+
+    **ii). Detailing**: Visiting each unique vehicle URL to extract key vehicle details.
 
  - Tools: 
 
