@@ -48,9 +48,10 @@ Sources of data will include;
  - Goal: Acquire a structured dataset for the above described features.
  - Key Fields: See above 
  - Extraction & Methodology: This will be completed in a two-stage process described below;
- 
-        - Discovery: Extracting of vehicle URLS
-        - Detailing: Visiting each unique vehicle URL to extract key vehicle details.
+
+        - **Discovery**: Extracting of vehicle URLS
+        - **Detailing**: Visiting each unique vehicle URL to extract key vehicle details.
+        
  - Tools: 
 
         - Python
