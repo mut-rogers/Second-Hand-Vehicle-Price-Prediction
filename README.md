@@ -38,7 +38,9 @@ Sources of data will include;
         12. Aspiration 
         13. Acceleration (0-100 Kph) 
 
-    Other key features that will be considered in case available include; `Trimming, Sound System, Power Windows, Seat Material, Air Conditioning, Steering Controls, Auto Start and Stop, Cigarette Lighter Port, Isofix Child Seat Anchors, FM Radio with BT AUX And USB, Keyless Entry Push Button Start, Running Costs, and Safety Features.`
+    Other key features that will be considered in case available include; 
+    `Trimming, Sound System, Power Windows, Seat Material, Air Conditioning, Steering Controls, Auto Start and Stop, Cigarette Lighter Port,` 
+    `Isofix Child Seat Anchors, FM Radio with BT AUX And USB, Keyless Entry  Push Button Start, Running Costs, and Safety Features.`
 
  II. Kaggle.
 
