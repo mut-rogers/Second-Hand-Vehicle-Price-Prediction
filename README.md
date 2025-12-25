@@ -39,12 +39,26 @@ Sources of data will include;
         13. Acceleration (0-100 Kph) 
 
     Other key features that will be considered in case available include; 
-    `Trimming, Sound System, Power Windows, Seat Material, Air Conditioning, Steering Controls, Auto Start and Stop, Cigarette Lighter Port,` 
-    `Isofix Child Seat Anchors, FM Radio with BT AUX And USB, Keyless Entry  Push Button Start, Running Costs, and Safety Features.`
 
- II. Kaggle.
+    Trimming, Sound System, Power Windows, Seat Material, Air Conditioning, Steering Controls, Auto Start and Stop, Cigarette Lighter Port,
+    Isofix Child Seat Anchors, FM Radio with BT AUX And USB, Keyless Entry  Push Button Start, Running Costs, and Safety Features.
 
 ### 5. Acquisiting Strategy
+ - Target: Second Hand car online marketplace.
+ - Goal: Acquire a structured dataset for the above described features.
+ - Key Fields: See above 
+ - Extraction & Methodology: This will be completed in a two-stage process described below;
+        - Discovery: Extracting of vehicle URLS
+        - Detailing: Visiting each unique vehicle URL to extract key vehicle details.
+ - Tools: 
+        - Python
+        - BeautifulSoup
+        - Selenium 
+        - Pydantic (for data validation) 
+        - SQL Alchemy 
+
+
+
 ### 5. Preparing Data 
 ### 6. Selecting and Training the Model
 ### 7. Evaluating and Fine Tuning
