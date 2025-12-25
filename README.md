@@ -13,14 +13,14 @@ Build a robust Machine Learning model (Price Prediction Model) that can help bot
 ### 3. Success Metrics
 Primary metrics include: MAE, RMSE, R2 Score 
 
- - Mean Absolute Error (MAE) - Will be used to measure the average magnitude of errors between the predicted price and the actual price. MAE will treat all errors equally, therefore, it may not be sensitive to large errors. A lower MAE will be considered as better.
+ - **Mean Absolute Error (MAE)** - Will be used to measure the average magnitude of errors between the predicted price and the actual price. MAE will treat all errors equally, therefore, it may not be sensitive to large errors. A lower MAE will be considered as better.
 
- - Root Mean Squared Error (RMSE) - Will be used to measure the avarage difference between the predicted prices and the actual prices. RMSE will square the errors, therefore, it will be sensitive to large errors. RMSE will be considered in the place of Mean Squared Error (MSE) as taking the square-root of the squared errors ensure that the metric is in the same units as the dataset. A lower RMSE will be considered as a good performance.
+ - **Root Mean Squared Error (RMSE)** - Will be used to measure the avarage difference between the predicted prices and the actual prices. RMSE will square the errors, therefore, it will be sensitive to large errors. RMSE will be considered in the place of Mean Squared Error (MSE) as taking the square-root of the squared errors ensure that the metric is in the same units as the dataset. A lower RMSE will be considered as a good performance.
 
 ### 4. Data Sources 
 Sources of data will include;
 
- Car Dealer Website: URL - https://www.kaiandkaro.com/vehicles?availability=available&availability=sell_on_behalf&model__make__vehicle_type=Automobile 
+ **Car Dealer Website**: URL - https://www.kaiandkaro.com/vehicles?availability=available&availability=sell_on_behalf&model__make__vehicle_type=Automobile 
 
     Key features that will be collected include;
 
@@ -49,9 +49,9 @@ Sources of data will include;
  - Key Fields: See above 
  - Extraction & Methodology: This will be completed in a two-stage process described below;
 
-        - **Discovery**: Extracting of vehicle URLS
-        - **Detailing**: Visiting each unique vehicle URL to extract key vehicle details.
-        
+    **Discovery**: Extracting of vehicle URLS
+    **Detailing**: Visiting each unique vehicle URL to extract key vehicle details.
+
  - Tools: 
 
         - Python
